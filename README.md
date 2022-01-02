@@ -14,3 +14,13 @@ Before 2020, Facebook used to have this kind of signup and login form in their w
     - [Tab](https://i.ibb.co/wMQPhzJ/FB-Sign-Up-03.png)
     - [Mobile](https://i.ibb.co/88hRQjf/FB-Sign-Up-02.png)
 
+## How To Contribute
+- Fork the repository.
+- Make your changes.
+- Commit your changes.
+- Create a pull request.
+- Wait for the pull request to be merged.
+
+**Note:** If you want to do a major changes than first create an Issue.
+
+
