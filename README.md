@@ -8,7 +8,7 @@ Before 2020, Facebook used to have this kind of signup and login form in their w
 
 ## Demo
 - Live
-    - [Facebook SignUp & SignIn](https://mrhrifat.github.io/facebook-signup-form)
+    - [Facebook SignUp](https://mrhrifat.github.io/facebook-signup-form)
 - Image
     - [Laptop](https://i.ibb.co/VxhqPkk/FB-Sign-Up-01.png)
     - [Tab](https://i.ibb.co/wMQPhzJ/FB-Sign-Up-03.png)
