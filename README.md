@@ -23,4 +23,5 @@ Before 2020, Facebook used to have this kind of signup and login form in their w
 
 **Note:** If you want to do a major changes than first create an Issue.
 
-
+## License
+This project is licensed under [GPL-3.0](https://github.com/mrhrifat/facebook-signup-form/blob/master/LICENSE).
